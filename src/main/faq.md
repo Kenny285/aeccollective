@@ -5,7 +5,7 @@ layoutType: page
 ---
 
 
-<center># (DRAFT - DO NOT PUBLISH )Frequently Asked Questions</center>
+# (DRAFT - DO NOT PUBLISH )Frequently Asked Questions
 
 The AEC field is one which is not well understood, especially to those outside the industry. We hope this page of frequently asked questions can serve as a resource to those wishing to learn more about it. Have a question that's not listed here? Feel free to join us on our Discord server (insert link here) and start a discussion. See you there.
 
@@ -15,6 +15,8 @@ The AEC field is one which is not well understood, especially to those outside t
 1. What's a typical day in your job as an architect/engineer/contractor?
 
 -Architect
+
+Link to Jacob's appearance on stemomfire podcast
 
 -Engineer
 
@@ -41,11 +43,13 @@ There's a popular misconception that architects only care about making buildings
 
 <hr>
 ## Construction
-1. 
+1. I'm currently in college and want to work in construction management afterwards. Should I study civil engineering or construction management?
 
-2. I'm currently in college and want to work in construction management afterwards. Should I study civil engineering or construction management?
+Civil engineering programs are more technical and are rooted in math & science. If you can handle material like this, it's typically better to study civil engineering rather than construction management; it gives you more flexibility at graduation with jobs and companies. Construction management firms will hire civil engineering majors, but not vice versa.
 
-3. What's that piece of construction equipment called/do?
+2. I'm about to graduate and am looking for a job where I can design and do engineering. Is construction management right for me?
+
+No. There is little to no design in construction management. That is not to be confused with construction engineering though, which does involve the engineering of temporary structures.
 
 
 
