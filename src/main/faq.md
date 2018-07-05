@@ -25,6 +25,7 @@ I don't think I have a real typical day. Today was a 6:30am-5pm day. Routine saf
 
 2. Who does what?
 <hr>
+
 ## Architecture
 1. What is the difference between architecture and architectural engineering?
 
@@ -37,11 +38,13 @@ There's a popular misconception that architects only care about making buildings
 - Functionality of spaces
 - Life safety and egress
 <hr>
+
 ## Engineering
 1. What are some tips for studying for the Fundamentals of Engineering Exam?
 
 
 <hr>
+
 ## Construction
 1. I'm currently in college and want to work in construction management afterwards. Should I study civil engineering or construction management?
 
