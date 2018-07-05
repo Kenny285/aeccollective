@@ -27,6 +27,7 @@ I don't think I have a real typical day. Today was a 6:30am-5pm day. Routine saf
 <hr>
 
 ## Architecture
+
 1. What is the difference between architecture and architectural engineering?
 
 Architecture is about the design of overall buildings, while architectural engineering is concerned with the systems that make buildings function. This includes HVAC, plumbing, sprinklers, etc.
@@ -40,12 +41,14 @@ There's a popular misconception that architects only care about making buildings
 <hr>
 
 ## Engineering
+
 1. What are some tips for studying for the Fundamentals of Engineering Exam?
 
 
 <hr>
 
 ## Construction
+
 1. I'm currently in college and want to work in construction management afterwards. Should I study civil engineering or construction management?
 
 Civil engineering programs are more technical and are rooted in math & science. If you can handle material like this, it's typically better to study civil engineering rather than construction management; it gives you more flexibility at graduation with jobs and companies. Construction management firms will hire civil engineering majors, but not vice versa.
