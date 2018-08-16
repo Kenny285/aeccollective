@@ -7,7 +7,7 @@ layoutType: page
 
 # (DRAFT - DO NOT PUBLISH )Frequently Asked Questions
 
-The AEC field is one which is not well understood, especially to those outside the industry. We hope this page of frequently asked questions can serve as a resource to those wishing to learn more about it. Have a question that's not listed here? Feel free to join us on our Discord server (insert link here) and start a discussion. See you there.
+The AEC field is one which is not well understood, especially to those outside the industry. We hope this page of frequently asked questions can serve as a resource to those wishing to learn more about it. Have a question that's not listed here? Feel free to join us on our Discord server (https://discord.gg/9GguMn5) and start a discussion. See you there.
 
 
 <hr>
@@ -30,7 +30,8 @@ There's a popular misconception that architects only care about making buildings
 
 ## Engineering
 
-1. What are some tips for studying for the Fundamentals of Engineering Exam?
+1. I'm looking for colleges to apply to for civil engineering. Is ABET accreditation important?
+Yes, ABET accreditation for civil engineering is very imoprtant. It is essentially a requirement to obtain a PE license (though there are some long ways around it). ABET certifies that the program meets the minimum standards it set and the program is re-evaluated every few years.
 
 2. What's a typical day in your job as an engineer?
 Jacob appeared on the Stem On Fire podcast here and discusses structural engineering. Have a listen here: https://stemonfire.com/43-architectural-and-structural-engineer-jacob-bolda/
