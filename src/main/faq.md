@@ -31,9 +31,11 @@ There's a popular misconception that architects only care about making buildings
 ## Engineering
 
 1. I'm looking for colleges to apply to for civil engineering. Is ABET accreditation important?
+
 Yes, ABET accreditation for civil engineering is very imoprtant. It is essentially a requirement to obtain a PE license (though there are some long ways around it). ABET certifies that the program meets the minimum standards it set and the program is re-evaluated every few years.
 
 2. What's a typical day in your job as an engineer?
+
 Jacob appeared on the Stem On Fire podcast here and discusses structural engineering. Have a listen here: https://stemonfire.com/43-architectural-and-structural-engineer-jacob-bolda/
 
 3. What kind of engineers are involved in the AEC field?
