@@ -36,6 +36,8 @@ Yes, ABET accreditation for civil engineering is very imoprtant. It is essential
 2. What's a typical day in your job as an engineer?
 Jacob appeared on the Stem On Fire podcast here and discusses structural engineering. Have a listen here: https://stemonfire.com/43-architectural-and-structural-engineer-jacob-bolda/
 
+3. What kind of engineers are involved in the AEC field?
+Civil/structural engineers are the most obvious to the layperson. However, they only design the basic structure of a building. There's so much more to it though. Electrical engineers and mechanical engineers design the "guts" of the building, which include the HVAC system, plumbing lines and electrical systems. Buildings would be inhabitable without them!
 <hr>
 
 ## Construction
